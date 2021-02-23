@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="public/moveit.svg" />
+    <a href="https://moveit-next-williamsahumada.vercel.app/"><img alt="Move.it" title="Move.it" src="public/moveit.svg" /></a>
 </h1>
 
 <br>
@@ -17,6 +17,8 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 O Move.it veio para te lembrar de se exercitar sempre! 💜 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 28 de Fevereiro de 2021.
+
+Você pode encontrar o demo [aqui](https://moveit-next-williamsahumada.vercel.app/).
 
 ## 🔖 Layout
 
